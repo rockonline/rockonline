@@ -65,7 +65,7 @@
     localStorage.setItem("basicBotsettings", JSON.stringify({
         botName: "RockOnline", //Define a name for your bot
         language: "portuguese",
-        chatLink: "https://raw.githubusercontent.com/basicBot/source/master/lang/pt-BR.json",
+        chatLink: "https://raw.githubusercontent.com/rockonline/rockonline/master/pt-BR.json",
         startupCap: 100, // 1-200
         startupVolume: 50, // 0-100
         startupEmoji: true, // true or false
